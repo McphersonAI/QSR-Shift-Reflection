@@ -1,3 +1,8 @@
+---
+name: qsr-shift-reflection
+version: 1.0.0
+description: End-of-shift reflection and handoff logging skill for restaurant and franchise operators.
+---
 # QSR Shift Reflection
 **v1.0.0 · McPherson AI · San Diego, CA**
 
