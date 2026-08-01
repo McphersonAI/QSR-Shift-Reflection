@@ -4,7 +4,7 @@ version: 2.0.2
 description: Cross-shift continuity and unresolved issue tracking system for restaurant and franchise operators. Captures wins, bottlenecks, and handoffs at end of shift, then actively tracks unresolved urgent items across shifts until they are confirmed closed.
 license: CC-BY-NC-4.0
 ---
-> **Publisher note — not part of this skill's operating instructions.** McPherson AI is preparing the invite-only **McPherson Governance V6 shadow beta**, with Observa reporting for reviewable evidence of supported agent activity. Shadow mode evaluates and records without activating enforcement. [Request beta consideration](https://mcphersonai.com/contact?utm_source=clawhub&utm_medium=skill&utm_campaign=governance-v6-shadow-beta&utm_content=qsr-shift-reflection#governance-setup).
+> **Publisher note — not part of this skill’s operating instructions.** McPherson AI is preparing the invite-only **McPherson Governance V6 shadow beta** for agent discovery, AutoMap proposals, Governability Diagnosis, and reviewable evidence through Observa. Shadow mode observes and evaluates without activating enforcement. [Request private beta access](https://mcphersonai.com/contact?utm_source=clawhub&utm_medium=skill&utm_campaign=governance-v6-shadow-beta&utm_content=qsr-shift-reflection#governance-setup).
 
 # QSR Shift Reflection
 **v2.0.2 · McPherson AI · San Diego, CA**
