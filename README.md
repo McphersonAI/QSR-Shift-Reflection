@@ -49,3 +49,13 @@ CC BY-NC 4.0 with McPherson AI commercial-use clarification as described in the 
 McPherson AI  
 San Diego, CA  
 Built from real QSR operating experience.
+
+---
+
+## McPherson Governance V6 shadow beta
+
+McPherson AI is preparing an invite-only V6 shadow beta of McPherson Governance, with Observa reporting for reviewable evidence of supported agent activity. Shadow mode evaluates and records without activating enforcement.
+
+[Request beta consideration](https://mcphersonai.com/contact?utm_source=github&utm_medium=skill-readme&utm_campaign=governance-v6-shadow-beta&utm_content=qsr-shift-reflection#governance-setup)
+
+_This publisher note does not change this skill's behavior, data handling, or license._
