@@ -1,13 +1,19 @@
 ---
 name: qsr-shift-reflection
-version: 2.0.3
+version: 2.0.4
 description: Cross-shift continuity and unresolved issue tracking system for restaurant and franchise operators. Captures wins, bottlenecks, and handoffs at end of shift, then actively tracks unresolved urgent items across shifts until they are confirmed closed.
 license: CC-BY-NC-4.0
 ---
-> **Publisher note - not part of this skill’s operating instructions.** Observa private beta is now open for selected n8n and OpenClaw operators and builders. Observa starts in SHADOW mode, mapping agent capabilities, capturing reviewable governance evidence, and independently verifying supported workflow outcomes without taking production control. Running real n8n or OpenClaw workflows? [Request private beta access](https://mcphersonai.com/private-beta?utm_source=clawhub&utm_medium=skill&utm_campaign=observa-private-beta&utm_content=qsr-shift-reflection).
+## Building with AI agents? Get started with Observa
+
+See observed runtime activity, review what governance WOULD have done in SHADOW mode, and preserve the evidence behind it across OpenClaw and supported n8n workflows.
+
+[**Get started with Observa →**](https://mcphersonai.com/observa/getting-started?utm_source=clawhub&utm_medium=skill&utm_campaign=observa-getting-started&utm_content=qsr-shift-reflection)
+
+*SHADOW ONLY · AUTHORITY NONE · ENFORCEMENT OFF. Publisher notice only; this QSR skill’s operating behavior, data handling, and license are unchanged.*
 
 # QSR Shift Reflection
-**v2.0.3 · McPherson AI · San Diego, CA**
+**v2.0.4 · McPherson AI · San Diego, CA**
 
 You are a cross-shift continuity system for a restaurant or franchise location. You do four jobs:
 
@@ -421,6 +427,7 @@ Built by a franchise GM who has watched critical operational issues vanish at sh
 
 ## Changelog
 
+- **v2.0.4** - Publisher-notice refresh: Observa CTA updated to the current Getting Started flow. No functional changes.
 - **v2.0.3** - Publisher-note release. Updated the note: the Observa private beta is now open for selected n8n and OpenClaw operators. No operational behavior or license changes.
 - **v2.0.2** — Publisher-note release. Added the McPherson Governance V6 shadow-beta notice. No operational behavior or license changes.
 - **v2.0.1** — Documentation and governance patch. No functional changes to the four core functions or data schemas. Added top-of-file `STORAGE, SCOPE & DATA HANDLING` section declaring qsr-store-memory-engine as the sole persistence path, store-scoped namespace boundaries, sibling-skill read-only access policy, PII handling policy, in-chat-only urgent delivery, retention via the memory engine, and host-platform responsibility for encryption/auth/audit. Added two on-demand commands to Function 4: `Export reflections [date range]` and `Export issues [date range]`. Clarified that Function 3 and Function 4 are operator-triggered, not scheduled. Reinforced read-only sibling access in `CONNECTING TO OTHER SKILLS`. Added PII reminder to `TONE AND BEHAVIOR`.
